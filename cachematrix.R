@@ -3,7 +3,7 @@
 ## returned without the need to recalculate it, thus, saving computing time.
 
 ## makeCacheMatrix:
-## This function creates a special R object that 
+## This function creates a special R object that
 ## 1. Initializes a variable 'inv' 
 ##    (which will be used to save inverse matrix latter, i.e. a cached data);
 ## 2. Provides function get() to obtain "raw" matrix (of which one needs to find 
